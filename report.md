@@ -33,21 +33,27 @@
 kết quả đạt được: https://drive.google.com/drive/folders/1juT05s9NQTzy752SmLKYPob95MjC3bb8?usp=drive_link
   
 **Exercise-4:**  
-1.Thu thập data thư mục Python và xác định tất cả jsoncác tập tin.  
-2.Tải tất cả json các tập tin.  
-3.Làm phẳng json cấu trúc dữ liệu.  
-https://drive.google.com/drive/folders/1KBuZ0EabE8qA1gFdWWB9muAR9-ww4GlF?usp=drive_link  
-4.Ghi kết quả vào một csv tệp, một đối một với tệp json, bao gồm tên tiêu đề.  
-Kết quả thu được là một cây thư mục mới với các file csv được chuyển thành từ các file JSON tương ứng và ghi bên cạnh các file đó  
-https://drive.google.com/file/d/1XhgYRStaoDGdQHL7U5txaq32JmWUNbAE/view?usp=drive_link  
+  1. Thu thập data thư mục Python và xác định tất cả jsoncác tập tin.  
+  2.Tải tất cả json các tập tin.  
+  3.Làm phẳng json cấu trúc dữ liệu.  
+  https://drive.google.com/drive/folders/1KBuZ0EabE8qA1gFdWWB9muAR9-ww4GlF?usp=drive_link  
+  4.Ghi kết quả vào một csv tệp, một đối một với tệp json, bao gồm tên tiêu đề.  
+  Kết quả thu được là một cây thư mục mới với các file csv được chuyển thành từ các file JSON tương ứng và ghi bên cạnh các file đó  
+  https://drive.google.com/file/d/1XhgYRStaoDGdQHL7U5txaq32JmWUNbAE/view?usp=drive_link  
   
 **Exercise-5:**  
-1.Kiểm tra từng csv tệp trong data thư mục. Thiết kế CREATE câu lệnh cho từng tệp.  
-2.Đảm bảo bạn có chỉ mục, khóa chính và khóa giả.  
-3.Sử dụng psycopg2 để kết nối với Postgresbật localhostvà mặc định port.  
-4.Tạo các bảng dựa trên cơ sở dữ liệu.  
-5.Nhập csv các tập tin vào các bảng bạn đã tạo bằng cách sử dụng psycopg2.  
-Chúng tôi đã hoàn thành các yêu cầu trên với đoạn code sau:  
-https://drive.google.com/file/d/1YrPzZGqjvLfHhEMavY7EQbtZz9yVBxgF/view?usp=drive_link  
-Sau khi chạy container và đã hoàn tất việc chèn dữ liệu thì chúng tôi sử dụng pgAdmin4 để kiểm tra và thấy toàn bộ dữ liệu từ bảng data đã được chèn vào trong database.  
-https://drive.google.com/drive/folders/1v016JqH1vce--NaXALi2HaSg8UHZ_gUT?usp=drive_link  
+  1.Kiểm tra từng csv tệp trong data thư mục. Thiết kế CREATE câu lệnh cho từng tệp.  
+  2.Đảm bảo bạn có chỉ mục, khóa chính và khóa giả.  
+  3.Sử dụng psycopg2 để kết nối với Postgresbật localhostvà mặc định port.  
+  4.Tạo các bảng dựa trên cơ sở dữ liệu.  
+  5.Nhập csv các tập tin vào các bảng bạn đã tạo bằng cách sử dụng psycopg2.  
+  Chúng tôi đã hoàn thành các yêu cầu trên với đoạn code sau:  
+  https://drive.google.com/file/d/1YrPzZGqjvLfHhEMavY7EQbtZz9yVBxgF/view?usp=drive_link  
+  Sau khi chạy container và đã hoàn tất việc chèn dữ liệu thì chúng tôi sử dụng pgAdmin4 để kiểm tra và thấy toàn bộ dữ liệu từ bảng data đã được chèn vào trong database.  
+  https://drive.google.com/drive/folders/1v016JqH1vce--NaXALi2HaSg8UHZ_gUT?usp=drive_link  
+
+**Exercise-6:**  
+  https://drive.google.com/drive/folders/1p2FfkMe1xqf-EZOJOGKvB3ZTVtR53wb1?usp=drive_link  
+
+**Exercise-7:**    
+  https://drive.google.com/drive/folders/1H-zddNXLgiUzZAtoq3LtZRTlxUg0lv8b?usp=drive_link  
